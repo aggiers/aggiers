@@ -1,4 +1,4 @@
-## ✭  oláa! sou agatha 
+## ✭ hiii! sou agatha 
 
 - 🔭 hoje estudo sobre programação !
 - 😄 Pronouns: ela/dela
