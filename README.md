@@ -9,6 +9,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aggiers&layout-compact&langs_count-16&theme=gotham"/>
 </div>
 </div style="display: inline_block"><br>
-   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/master/icons/css/css-original.svg">
+   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/master/icons/css3/css3-original.svg">
 </div>
           
