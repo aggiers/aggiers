@@ -16,4 +16,4 @@
   <a href="https://www.linkedin.com/in/agatha-tobias-gomes-673884313/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:thi.agatha21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31nrzxvsa6l5yakzpocljqew5lda&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=v41zfnxsh8yr9goref43od2a7&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=a749a7&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=v41zfnxsh8yr9goref43od2a7&redirect=true)
