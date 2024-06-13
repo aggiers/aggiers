@@ -1,4 +1,4 @@
-## ✭ hello! i'm agatha 
+## ✭ hello angel!
 
 - 🔭 hoje estudo sobre programação !
 - 😄 Pronouns: ela/dela
