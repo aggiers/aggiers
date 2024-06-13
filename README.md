@@ -1,5 +1,5 @@
 ## ✭ hii little angel!
 
-- 🔭 hoje estudo sobre programação !
-- 😄 Pronouns: ela/dela
+- ✨ hoje estudo sobre programação !
+- ✨ Pronomes: ela/dela
 -->
