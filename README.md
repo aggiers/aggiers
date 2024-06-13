@@ -1,4 +1,4 @@
-## ✭ hii little angel!
+## ✭ Oii!
 
 - ✨ hoje estudo sobre programação !
 - ✨ Pronomes: ela/dela
