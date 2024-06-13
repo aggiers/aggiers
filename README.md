@@ -10,6 +10,6 @@
 -->
 
 </div style="display: inline_block"><br>
-   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githunusercontent.com/devicons/devicon@latest/devicon.min.css" />
+   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githunusercontent.com/devicons/master/icons/css/css-original.svg">
 </div>
           
