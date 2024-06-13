@@ -1,4 +1,4 @@
-## ✭ ʜɪɪ ʟɪᴛᴛʟᴇ ᴀɴɢᴇʟ
+## ✭ ʜɪɪ ʟɪᴛᴛʟᴇ ᴀɴɢᴇʟ !
 
 <!--
 **aggiers/aggiers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
