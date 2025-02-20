@@ -11,7 +11,8 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   
 #
 
-<img align="right" alt="" height="190px" src="./src/pixel-art.gif">
+<img align="right" alt="" height="190px" src="./src/![pixel-art gif](https://github.com/user-attachments/assets/f5237ef7-4d30-4abb-ae74-b7de94b3c80c)
+">
 
 
 <h3 align="left">Connect with me!</h3>
