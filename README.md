@@ -13,7 +13,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 
 <p align="right">
-  <img src="https://media.giphy.com/media/https://github.com/user-attachments/assets/5d156427-5a4d-4537-b0c1-37f974023ed8/giphy.gif" width="250" alt="GIF animado">
+  <img src="https://github.com/user-attachments/assets/5d156427-5a4d-4537-b0c1-37f974023ed8" width="250" alt="GIF animado">
 </p> 
 
 
