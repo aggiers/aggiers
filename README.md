@@ -26,7 +26,6 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" height="25" alt="css logo"  />
-  <img width="8" />
   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
   <i class="devicon-cplusplus-plain"></i>
 
