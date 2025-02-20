@@ -11,6 +11,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   
 #
 
+#
 
 <p align="right">
   <img src="https://github.com/user-attachments/assets/5d156427-5a4d-4537-b0c1-37f974023ed8" width="250" alt="GIF animado" heigth="190px">
@@ -24,7 +25,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/agatha-tobias-gomes-673884313/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=0DFF50&color:FFF)](https://www.instagram.com/aggyerst/)
 
-
+#
 
 <h3 align="left">My Stack ~</h3>
 
