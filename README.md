@@ -24,9 +24,6 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 <h3 align="left">My Stack ~</h3>
 
-<div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
-  <br>
   
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" height="25" alt="css logo"  />
@@ -34,6 +31,9 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 #
 
+<div style="text-align: center;" align="center">
+  <h3>* GitHub Stats *</h3>
+  <br>
 
 <div>
   <a href="https://github.com/aggiers">
