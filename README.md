@@ -4,8 +4,12 @@
   </a>
 </div>
 
-<img align="center" alt="" src="./src/pixel-art.gif">
+#
 
+<p align="center">Estudante de Desenvolvimento de Sistemas no Senai Paulo Antonio Skaf em São Caetano. Atualmente tenho conhecimento de C++ e um pouco de C#.
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área da tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+  
+#
 
 ## ✭ Oii!
 
