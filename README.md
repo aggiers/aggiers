@@ -25,6 +25,10 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=0DFF50&color:FFF)](https://www.instagram.com/aggyerst/)
 
 
+
+<h3 align="left">My Stack ~</h3>
+
+
 <div>
   <a href="https://github.com/aggiers">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aggiers&show_icons=true&theme=gotham&include_all_commits-true&count_private-true"/>
