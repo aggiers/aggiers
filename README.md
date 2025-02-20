@@ -25,8 +25,9 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <h3 align="left">My Stack ~</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" height="25" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" height="25" alt="css logo"  />
   <img width="8" />
+
 
 *
 
