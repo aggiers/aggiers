@@ -28,9 +28,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" height="25" alt="css logo"  />
   <img width="8" />
 
-
-          
-#
+*
 
 
 
