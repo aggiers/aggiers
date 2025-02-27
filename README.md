@@ -11,11 +11,11 @@
 <p align="center">Estudante de Desenvolvimento de Sistemas no Senai Paulo Antonio Skaf em São Caetano. Atualmente tenho conhecimento de C++ e um pouco de C#.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área da tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
   
-#
+##
 
-<div style="display: inline_block"><br>
-  <img align="right" src="https://github.com/user-attachments/assets/450e4d44-f6e3-416e-b931-b63e611b9fa7" width="300px" alt="GIF animado" heigth="300px">
-</div> 
+
+  <img align="right" src="https://github.com/user-attachments/assets/db4aa246-dedb-4a2d-a45c-e8c898b20d2a" width="335px" alt="GIF animado" heigth="100px">
+
 
 <h3 align="left">Connect with me!</h3>
 
@@ -35,7 +35,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="25" alt="figma logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="25" alt="figma logo" />
 
-#
+##
 
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
