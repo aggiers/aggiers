@@ -4,6 +4,8 @@
   </a>
 </div>
 
+
+
 #
 
 <p align="center">Estudante de Desenvolvimento de Sistemas no Senai Paulo Antonio Skaf em São Caetano. Atualmente tenho conhecimento de C++ e um pouco de C#.
@@ -12,7 +14,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 #
 
 <div style="display: inline_block"><br>
-  <img align="right" src="https://github.com/user-attachments/assets/5d156427-5a4d-4537-b0c1-37f974023ed8" width="290px" alt="GIF animado" heigth="190px">
+  <img align="right" src="https://github.com/user-attachments/assets/450e4d44-f6e3-416e-b931-b63e611b9fa7" width="300px" alt="GIF animado" heigth="300px">
 </div> 
 
 <h3 align="left">Connect with me!</h3>
@@ -32,12 +34,6 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" height="25" alt="json logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="25" alt="figma logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="25" alt="figma logo" />
-          
-          
- 
-          
-          
-          
 
 #
 
