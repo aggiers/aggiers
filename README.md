@@ -14,7 +14,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 ##
 
 
-  <img align="right" src="https://github.com/user-attachments/assets/b8b46b3f-3233-4f50-aa34-16160da805ec" width="380px" alt="GIF animado" heigth="100px">
+  <img align="right" src="https://github.com/user-attachments/assets/b8b46b3f-3233-4f50-aa34-16160da805ec" width="380px" alt="GIF animado" heigth="110px">
 
 
 <h3 align="left">Connect with me!</h3>
