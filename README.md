@@ -33,7 +33,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="25" alt="csharp logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" height="25" alt="json logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="25" alt="figma logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="25" alt="figma logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="25" alt="html logo" />
 
 ##
 
@@ -49,7 +49,6 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 
   ##
- 
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aggiers/aggiers/output/github-contribution-grid-snake-dark.svg">
