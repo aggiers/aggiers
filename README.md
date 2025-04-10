@@ -1,6 +1,4 @@
-<div align= "center">
-  <img src= "https://media.tenor.com/nYOi7JVd9NQAAAAi/welkom-goth.gif" alt="Goth">
-</div>
+
 
 ![Image](https://github.com/user-attachments/assets/3c9bd781-efe9-4052-ad4b-74684648ca8f)
 
