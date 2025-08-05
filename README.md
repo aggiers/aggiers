@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=980&size=35&duration=4000&pause=1000&color=0DFF50&center=true&vCenter=true&random=false&width=1000&lines=Hello!!+my+name+is+Agatha;I'm+17+years+old;I+am+an+TI+student;I'm+from+Brazil;Welcome!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=35&duration=4000&pause=1000&color=0DFF50&center=true&vCenter=true&random=false&width=1000&lines=Hello!!+my+name+is+Agatha;I'm+17+years+old;I+am+an+TI+student;I'm+from+Brazil;Welcome!!!)](https://git.io/typing-svg)
 
 <img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/9c2b52f0-e9e2-4236-8283-54b1177cc7c4" />
 
