@@ -6,7 +6,7 @@
 
 #
 
-<p align="center">Estudante de Desenvolvimento de Sistemas no Senai Paulo Antonio Skaf em São Caetano. Atualmente tenho conhecimento em C#, C++ e JavaScript.
+<p align="center">Formada em Desenvolvimento de Sistemas no Senai e atualmente cursando Ciência da Computação em uma universidade. Tenho conhecimento em C#, C++ e JavaScript.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área da tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
   
 ##
