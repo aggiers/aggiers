@@ -24,7 +24,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <h3 align="left">
   My <a color="#00FF08" href="https://aggiers.github.io/meu_portifolio/"><b>Portfolio</b></a>
 </h3>
-<hr color="#00FF08" size="5" width="40%">
+<hr size="5" width="40%">
 
 
 <h3 align="left">My Stack ~</h3>
