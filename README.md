@@ -21,8 +21,10 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/agatha-gomes-673884313/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=0DFF50&color:FFF)](https://www.instagram.com/aegyptix/)
 
-<h3 align="left">My <a href="https://aggiers.github.io/meu_portifolio/">Portfolio</a></h3>
-<hr bgcolor="#00FF08" height="5px" width="40%">
+<h3 align="left">
+  My <a color="#00FF08" href="https://aggiers.github.io/meu_portifolio/"><b>Portfolio</b></a>
+</h3>
+<hr color="#00FF08" size="5" width="40%">
 
 
 <h3 align="left">My Stack ~</h3>
