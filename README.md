@@ -12,7 +12,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 ##
 
 
-  <img align="right" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" width="430px" alt="GIF animado" heigth="200px">
+  <img align="right" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" width="480px" alt="GIF animado" heigth="200px">
 
 
 <h3 align="left">Connect with me!</h3>
@@ -21,6 +21,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/agatha-gomes-673884313/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=0DFF50&color:FFF)](https://www.instagram.com/aegyptix/)
 
+<hr size="5" width="40%">
 <h3 align="left">
   My <a color="#00FF08" href="https://aggiers.github.io/meu_portifolio/"><b>Portfolio</b></a>
 </h3>
