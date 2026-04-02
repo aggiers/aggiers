@@ -12,7 +12,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 ##
 
 
-  <img align="right" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" width="480px" alt="GIF animado" heigth="200px">
+  <img align="right" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" width="465px" alt="GIF animado" heigth="200px">
 
 
 <h3 align="left">Connect with me!</h3>
