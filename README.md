@@ -6,7 +6,7 @@
 
 #
 
-<p align="center">Formada em Desenvolvimento de Sistemas no Senai e atualmente cursando Engenharia de Software em uma universidade. Tenho conhecimento em C#, Python, C++ e JavaScript.
+<p align="center">Formada em Desenvolvimento de Sistemas no Senai e atualmente cursando Engenharia de Software em uma universidade. Tenho conhecimento tanto em Front-End quanto em Back-End.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área da tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
   
 ##
